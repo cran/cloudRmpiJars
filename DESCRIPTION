@@ -1,8 +1,8 @@
 Package: cloudRmpiJars
 Type: Package
 Title: Third-party jars for cloudRmpi
-Version: 1.0
-Date: 2012-03-24
+Version: 1.1
+Date: 2012-04-18
 Author: Barnet Wagman
 Maintainer: Barnet Wagman <bw@norbl.com>
 Description: This package contains third-party Java class jars used by
@@ -12,6 +12,6 @@ License: GPL-3
 SystemRequirements: Java (>=1.6); see the cloudRmpi manual (vignette)
         for details.
 URL: http://norbl.com/cloudrmpi/cloudRmpi.html
-Packaged: 2012-03-21 14:43:37 UTC; moi
+Packaged: 2012-04-23 18:03:09 UTC; moi
 Repository: CRAN
-Date/Publication: 2012-03-22 06:58:52
+Date/Publication: 2012-04-24 03:59:52
